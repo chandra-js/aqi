@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Just clone this project. and  run Yarn install or npm i.
+Just clone main branch. and  run Yarn install or npm i.
 
 ## Available Scripts
 
@@ -29,4 +29,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## screenShot
 
-
+[
+![Uploading Screenshot 2021-05-10 at 12.46.30 AM.png…]()
+](url)
