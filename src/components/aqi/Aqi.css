@@ -1,0 +1,39 @@
+.type {
+    color:chocolate;
+}
+.aqi-container{
+    background-color:rgb(225, 225, 231);
+}
+.aqi-container-table{
+    display: flex;
+    align-items: stretch;
+}
+.area-30p{
+    flex-basis: 30%;
+}
+.area-20p{
+    flex-basis: 20%;
+}
+.header-text{
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 0.05rem;
+  padding: 0.5rem;
+}
+.text-right{
+    text-align: right;
+}
+.table-header{
+    font-size: 1.2rem;
+    letter-spacing: 0.05rem;
+    padding: 0.5rem;
+    background-color: white;
+    border-bottom: 1px solid #e8dede;
+}
+.table-body{
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.5rem;
+    background-color: white;
+    border-bottom: 1px solid #f7f7f7;;
+}

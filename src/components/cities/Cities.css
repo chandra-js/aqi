@@ -1,0 +1,30 @@
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+
+.aqi  {
+    width: 100%;
+}
+.graph{
+    width: 100%;
+    margin:1rem 0 ;
+}
+  
+
+@media (min-width: 960px) {
+	.main-header .container {
+		justify-content: space-between;
+	}
+    .main-nav a {
+        margin: 0.3rem;
+    }
+    .aqi {
+        width: 55%;
+    } 
+    .graph{
+        width: 45%;
+        margin:0 rem;
+    }
+}
